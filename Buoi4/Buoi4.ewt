@@ -1940,11 +1940,29 @@
       </data>
     </settings>
   </configuration>
+  <group>
+    <name>user</name>
+    <group>
+      <name>inc</name>
+      <file>
+        <name>$PROJ_DIR$\user\inc\FGAcoursestm8_LCD.h</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\user\inc\FGAcoursestm8Lib.h</name>
+      </file>
+    </group>
+    <group>
+      <name>src</name>
+      <file>
+        <name>$PROJ_DIR$\user\src\FGAcoursestm8_LCD.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\user\src\FGAcoursestm8Lib.c</name>
+      </file>
+    </group>
+  </group>
   <file>
-    <name>$PROJ_DIR$\FGAcoursestm8Lib.c</name>
-  </file>
-  <file>
-    <name>$PROJ_DIR$\FGAcoursestm8Lib.h</name>
+    <name>$PROJ_DIR$\InteruptConfig.c</name>
   </file>
   <file>
     <name>$PROJ_DIR$\main.c</name>

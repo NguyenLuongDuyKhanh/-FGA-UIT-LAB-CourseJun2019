@@ -18,7 +18,7 @@
           
           
           
-        <Column0>118</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+        <Column0>292</Column0><Column1>27</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
       </Workspace>
       <TerminalIO/>
       <Debug-Log>
@@ -53,7 +53,7 @@
             <Factory>Workspace</Factory>
             <Session>
               
-            <NodeDict><ExpandedNode>Buoi4</ExpandedNode><ExpandedNode>Buoi4/Output</ExpandedNode><ExpandedNode>Buoi4/[FGAcourse]stm8Lib.c</ExpandedNode></NodeDict></Session>
+            <NodeDict><ExpandedNode>Buoi4</ExpandedNode><ExpandedNode>Buoi4/FGAcoursestm8Lib.c</ExpandedNode><ExpandedNode>Buoi4/FGAcoursestm8Lib.c/Output</ExpandedNode><ExpandedNode>Buoi4/Output</ExpandedNode><ExpandedNode>Buoi4/[FGAcourse]stm8Lib.c</ExpandedNode><ExpandedNode>Buoi4/user</ExpandedNode><ExpandedNode>Buoi4/user/inc</ExpandedNode><ExpandedNode>Buoi4/user/src</ExpandedNode></NodeDict></Session>
           </Tab>
         </Tabs>
         
@@ -63,14 +63,14 @@
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>51</YPos2><SelStart2>1869</SelStart2><SelEnd2>1869</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\FGAcoursestm8Lib.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>187</YPos2><SelStart2>8666</SelStart2><SelEnd2>8666</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\FGAcoursestm8Lib.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>49</SelStart2><SelEnd2>49</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>222</SelStart2><SelEnd2>286</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\user\src\FGAcoursestm8_LCD.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>86</YPos2><SelStart2>2883</SelStart2><SelEnd2>2883</SelEnd2></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\user\inc\FGAcoursestm8Lib.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>25</YPos2><SelStart2>6288</SelStart2><SelEnd2>6288</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\user\inc\FGAcoursestm8_LCD.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>48</YPos2><SelStart2>611</SelStart2><SelEnd2>611</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\user\src\FGAcoursestm8Lib.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\InteruptConfig.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>32</SelStart2><SelEnd2>32</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-04A7EA08><key>iaridepm.enu1</key></Toolbar-04A7EA08></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>752</Bottom><Right>192</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>108342</sizeHorzCX><sizeHorzCY>192864</sizeHorzCY><sizeVertCX>105092</sizeVertCX><sizeVertCY>727097</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>240</Bottom><Right>1848</Right><x>-2</x><y>-2</y><xscreen>1850</xscreen><yscreen>242</yscreen><sizeHorzCX>1002167</sizeHorzCX><sizeHorzCY>233365</sizeHorzCY><sizeVertCX>108342</sizeVertCX><sizeVertCY>192864</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-067DEA08><key>iaridepm.enu1</key></Toolbar-067DEA08></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>586</Bottom><Right>366</Right><x>-2</x><y>-2</y><xscreen>225</xscreen><yscreen>162</yscreen><sizeHorzCX>121885</sizeHorzCX><sizeHorzCY>156220</sizeHorzCY><sizeVertCX>199350</sizeVertCX><sizeVertCY>567020</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>406</Bottom><Right>1848</Right><x>-2</x><y>-2</y><xscreen>1850</xscreen><yscreen>408</yscreen><sizeHorzCX>1002167</sizeHorzCX><sizeHorzCY>393443</sizeHorzCY><sizeVertCX>121885</sizeVertCX><sizeVertCY>156220</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 

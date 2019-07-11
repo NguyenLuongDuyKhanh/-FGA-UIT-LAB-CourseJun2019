@@ -10,14 +10,11 @@
   *        https://github.com/NguyenLuongDuyKhanh
   ******************************************************************************
   */ 
-
 #ifndef __FGAcoursestm8lLib_h__
 #define __FGAcoursestm8lLib_h__
 
 #include <stdint.h>
 #include "intrinsics.h"
-
-#endif
 
 /******************************************************************************/
 /*                                GPIO                                        */
@@ -287,33 +284,15 @@ typedef struct LCDreg
 /*                              Interrupt Vector                              */
 /******************************************************************************/
 
-//Read chapter 6 page 57 datasheet stm8l152c6 to find out interupt vector number
-int count = 0;
-_Pragma( "vector = 11" ) __interrupt void       //External interrupt 1 No9+2
-ButtonInterupt( void )
-{
-  BlueOff;
-  IRQ->EXTI_SR1 |= 0x02;;
-}
 
-_Pragma( "vector = 25" ) __interrupt void       //Timer 1 interupt No23+2
-Timer1Interupt( void )
-{
-  PortCb->ODR.ODR7^=1;
-  
-  TIM1->TIM1_SR1 = ~0x01;
-  	if(count == 10000)
-	{
-		count =0;
-	}
-	else 
-	{
-		count ++;
-	}
-}
 
 /******************************************************************************/
 /*                         Function Prototype                                 */
 /******************************************************************************/
 
 void delay(unsigned int n);
+
+/******************************************************************************/
+/*                         End                                                */
+/******************************************************************************/
+#endif
