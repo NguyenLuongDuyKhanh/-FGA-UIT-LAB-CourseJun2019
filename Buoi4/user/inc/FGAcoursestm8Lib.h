@@ -249,6 +249,22 @@ typedef struct LCDreg
   uint8_t       LCD_RAM12;
   uint8_t       LCD_RAM13;
 }LCDreg;
+/******************************************************************************/
+/*                              SPI                                           */
+/******************************************************************************/
+#define SPI     ((SPIreg*)0x5200)
+
+typedef struct SPIreg
+{
+  uint8_t       SPI1_CR1;
+  uint8_t       SPI1_CR2;
+  uint8_t       SPI1_ICR;
+  uint8_t       SPI1_SR;
+  uint8_t       SPI1_DR;
+  uint8_t       SPI1_CRCPR;
+  uint8_t       SPI1_RXCRCR;
+  uint8_t       SPI1_TXCRCR;
+}SPIreg;
 
 /******************************************************************************/
 /*                 Only usefull with Stm8L152 Discovery Board                 */
