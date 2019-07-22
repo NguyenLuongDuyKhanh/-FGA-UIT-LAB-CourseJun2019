@@ -1,205 +1,208 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <fileVersion>2</fileVersion>
-  <fileChecksum>531853998</fileChecksum>
-  <configuration>
-    <name>Debug</name>
-    <outputs>
-      <file>$PROJ_DIR$\user\src\FGAcoursestm8_LCD.c</file>
-      <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
-      <file>$PROJ_DIR$\user\inc\FGAcoursestm8_LCD.h</file>
-      <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.__cstat.et</file>
-      <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8_LCD.pbi</file>
-      <file>$PROJ_DIR$\main.c</file>
-      <file>$PROJ_DIR$\user\src\FGAcoursestm8Lib.c</file>
-      <file>$PROJ_DIR$\user\inc\FGAcoursestm8Lib.h</file>
-      <file>$PROJ_DIR$\InteruptConfig.c</file>
-      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
-      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
-      <file>$TOOLKIT_DIR$\config\lnkstm8l152c6.icf</file>
-      <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8_LCD.o</file>
-      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
-      <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.pbi</file>
-      <file>$PROJ_DIR$\Debug\Obj\[FGAcourse]stm8Lib.__cstat.et</file>
-      <file>$PROJ_DIR$\Debug\Obj\InteruptConfig.pbi</file>
-      <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
-      <file>$PROJ_DIR$\Debug\Obj\Buoi4.pbd</file>
-      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
-      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
-      <file>$PROJ_DIR$\[FGAcourse]stm8Lib.c</file>
-      <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.o</file>
-      <file>$PROJ_DIR$\FGAcoursestm8Lib.c</file>
-      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
-      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
-      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
-      <file>$PROJ_DIR$\Debug\Obj\InteruptConfig.o</file>
-      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
-      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
-      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
-      <file>$PROJ_DIR$\Debug\Exe\Buoi4.out</file>
-      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
-      <file>$PROJ_DIR$\Debug\Obj\[FGAcourse]stm8Lib.pbi</file>
-      <file>$PROJ_DIR$\Debug\Obj\[FGAcourse]stm8Lib.o</file>
-      <file>$PROJ_DIR$\Debug\List\Buoi4.map</file>
-    </outputs>
-    <file>
-      <name>$PROJ_DIR$\user\src\FGAcoursestm8_LCD.c</name>
-      <outputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 12</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 4</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 2 7 30 28 29 32 1 26 24 25 10</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 28 29 24 30 1 7 10 26 2 32 25</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\main.c</name>
-      <outputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 20</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 13</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 19</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 7 30 28 29 32 1 26 24 25 10 2</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 28 10 24 29 2 30 32 25 7 1 26</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\user\src\FGAcoursestm8Lib.c</name>
-      <outputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 22</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 14</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\InteruptConfig.c</name>
-      <outputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 27</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 16</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 7 30 28 29 32 1 26 24 25 10</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 29 30 32 25 10 28 24 1 26 7</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>[ROOT_NODE]</name>
-      <outputs>
-        <tool>
-          <name>ILINK</name>
-          <file> 31 35</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\[FGAcourse]stm8Lib.c</name>
-      <outputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 34</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 15</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 33</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\FGAcoursestm8Lib.c</name>
-      <outputs>
-        <tool>
-          <name>ICCSTM8</name>
-          <file> 22</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 3</file>
-        </tool>
-        <tool>
-          <name>BICOMP</name>
-          <file> 14</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\Debug\Exe\Buoi4.out</name>
-      <outputs>
-        <tool>
-          <name>ILINK</name>
-          <file> 35</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>ILINK</name>
-          <file> 11 12 22 27 20 9 17</file>
-        </tool>
-      </inputs>
-    </file>
-    <forcedrebuild>
-      <name>$PROJ_DIR$\FGAcoursestm8Lib.c</name>
-      <tool>ICCSTM8</tool>
-    </forcedrebuild>
-  </configuration>
-  <configuration>
-    <name>Release</name>
-    <outputs/>
-    <forcedrebuild>
-      <name>[MULTI_TOOL]</name>
-      <tool>ILINK</tool>
-    </forcedrebuild>
-  </configuration>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>1619347679</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8_LCD.pbi</file>
+            <file>$PROJ_DIR$\user\inc\FGAcoursestm8Lib.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+            <file>$PROJ_DIR$\user\src\FGAcoursestm8_LCD.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.__cstat.et</file>
+            <file>$PROJ_DIR$\user\inc\FGAcoursestm8_LCD.h</file>
+            <file>$PROJ_DIR$\user\src\FGAcoursestm8Lib.c</file>
+            <file>$PROJ_DIR$\InteruptConfig.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8_LCD.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\InteruptConfig.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\InteruptConfig.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8_LCD.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\[FGAcourse]stm8Lib.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\[FGAcourse]stm8Lib.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\InteruptConfig.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\InteruptConfig.pbi</file>
+            <file>$PROJ_DIR$\[FGAcourse]stm8Lib.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\Buoi4.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8Lib.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\[FGAcourse]stm8Lib.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\List\Buoi4.map</file>
+            <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\FGAcoursestm8_LCD.o</file>
+            <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\FGAcoursestm8Lib.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\Buoi4.out</file>
+            <file>$TOOLKIT_DIR$\config\lnkstm8l151k4.icf</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 40 29</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 1 35 17 39 28 3 16 25 37 36 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\user\src\FGAcoursestm8_LCD.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 10</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 14</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 6 1 35 17 39 28 3 16 25 37 36</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\user\src\FGAcoursestm8Lib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\InteruptConfig.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 1 35 17 39 28 3 16 25 37 36</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\[FGAcourse]stm8Lib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\FGAcoursestm8Lib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Buoi4.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 41 31 23 19 34 32 30</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\FGAcoursestm8Lib.c</name>
+            <tool>ICCSTM8</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
 </project>
-
-

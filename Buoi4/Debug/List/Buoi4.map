@@ -1,21 +1,26 @@
 ###############################################################################
 #
-# IAR ELF Linker V2.20.1.176 for STM8                     12/Jul/2019  11:03:40
-# Copyright 2010-2015 IAR Systems AB.
+# IAR ELF Linker V3.11.1.207 for STM8                     17/Jul/2019  16:06:32
+# Copyright 2010-2019 IAR Systems AB.
 #
-#    Output file  =  D:\WorkingZone\FGA-Traing\Buoi4\Debug\Exe\Buoi4.out
-#    Map file     =  D:\WorkingZone\FGA-Traing\Buoi4\Debug\List\Buoi4.map
+#    Output file  =  
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Exe\Buoi4.out
+#    Map file     =  
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\List\Buoi4.map
 #    Command line =  
-#        D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj\FGAcoursestm8_LCD.o
-#        D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj\FGAcoursestm8Lib.o
-#        D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj\InteruptConfig.o
-#        D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj\main.o --redirect
-#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb -o
-#        D:\WorkingZone\FGA-Traing\Buoi4\Debug\Exe\Buoi4.out --map
-#        D:\WorkingZone\FGA-Traing\Buoi4\Debug\List\Buoi4.map --config
-#        "C:\Program Files (x86)\IAR Systems\Embedded Workbench
-#        7.3\stm8\config\lnkstm8l152c6.icf" --config_def _CSTACK_SIZE=0x100
-#        --config_def _HEAP_SIZE=0x100 --entry __iar_program_start --debug_lib
+#        -f C:\Users\HERA~1.FGA\AppData\Local\Temp\EW7DF8.tmp
+#        (C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj\FGAcoursestm8_LCD.o
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj\FGAcoursestm8Lib.o
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj\InteruptConfig.o
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj\main.o
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --no_out_extension -o
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Exe\Buoi4.out
+#        --map
+#        C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\List\Buoi4.map
+#        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.3\stm8\config\lnkstm8l151k4.icf" --config_def _CSTACK_SIZE=0x100
+#        --config_def _HEAP_SIZE=0x100 --entry __iar_program_start --debug_lib)
 #
 ###############################################################################
 
@@ -36,10 +41,10 @@ __rt_version               = 4
 *** PLACEMENT SUMMARY
 ***
 
-"A1":  place at start of [0x000000-0x0000ff] { rw section .vregs };
-"A2":  place at end of [0x000000-0x0007ff] { block CSTACK };
-"A3":  place at start of [0x008000-0x00ffff] { block INTVEC };
-"P3":  place in [from 0x008000 to 0x00ffff] {
+"A0":  place at start of [0x000000-0x0000ff] { rw section .vregs };
+"A1":  place at end of [0x000000-0x0007ff] { block CSTACK };
+"A2":  place at start of [0x008000-0x00bfff] { block INTVEC };
+"P3":  place in [from 0x008000 to 0x00bfff] {
           ro section __DLIB_PERTHREAD_init, ro section .far.data_init,
           ro section .far_func.textrw_init, ro section .huge.data_init,
           ro section .huge_func.textrw_init, ro section .iar.init_table,
@@ -47,48 +52,95 @@ __rt_version               = 4
           ro section .near.rodata, ro section .near_func.text,
           ro section .near_func.textrw_init, ro section .tiny.data_init,
           ro section .tiny.rodata_init };
+"P4":  place in [from 0x008000 to 0x00bfff] {
+          ro section .far.rodata, ro section .far_func.text };
+"P5":  place in [from 0x008000 to 0x00bfff] {
+          ro section .huge.rodata, ro section .huge_func.text };
+do not initialize {
+   rw section .eeprom.noinit, rw section .far.noinit, rw section .huge.noinit,
+   rw section .near.noinit, rw section .tiny.noinit, rw section .vregs };
+
+No sections matched the following patterns:
+
+  ro section .far.data_init          in "P3-P5"
+  ro section .far.rodata             in "P3-P5"
+  ro section .far_func.text          in "P3-P5"
+  ro section .far_func.textrw_init   in "P3-P5"
+  ro section .huge.data_init         in "P3-P5"
+  ro section .huge.rodata            in "P3-P5"
+  ro section .huge_func.text         in "P3-P5"
+  ro section .huge_func.textrw_init  in "P3-P5"
+  ro section .iar.init_table         in "P3-P5"
+  ro section .init_array             in "P3-P5"
+  ro section .near.data_init         in "P3-P5"
+  ro section .near_func.textrw_init  in "P3-P5"
+  ro section .tiny.data_init         in "P3-P5"
+  ro section .tiny.rodata_init       in "P3-P5"
+  ro section __DLIB_PERTHREAD_init   in "P3-P5"
+  rw section .far.bss                in "P2"
+  rw section .far.data               in "P2"
+  rw section .far.noinit             in "P2"
+  rw section .far_func.textrw        in "P2"
+  rw section .huge.bss               in "P2"
+  rw section .huge.data              in "P2"
+  rw section .huge.noinit            in "P2"
+  rw section .huge_func.textrw       in "P2"
+  rw section .iar.dynexit            in "P2"
+  rw section .near.bss               in "P2"
+  rw section .near.data              in "P2"
+  rw section .near.noinit            in "P2"
+  rw section .near_func.textrw       in "P2"
+  rw section .tiny.bss               in "P1"
+  rw section .tiny.data              in "P1"
+  rw section .tiny.noinit            in "P1"
+  rw section .tiny.rodata            in "P1"
+  rw section __DLIB_PERTHREAD        in "P2"
+  section .eeprom.data               in "P6-P8"
+  section .eeprom.noinit             in "P6-P8"
+  section .eeprom.rodata             in "P6-P8"
+
 
   Section          Kind      Address   Size  Object
   -------          ----      -------   ----  ------
-"A1":                                   0xc
+"A0":                                   0xc
   .vregs           uninit   0x000000    0xc  vregs.o [4]
                           - 0x00000c    0xc
 
-"A2":                                 0x100
+"A1":                                 0x100
   CSTACK                    0x000700  0x100  <Block>
     CSTACK         uninit   0x000700  0x100  <Block tail>
                           - 0x000800  0x100
 
-"A3":                                  0x80
+"A2":                                  0x80
   INTVEC                    0x008000   0x80  <Block>
     .intvec        const    0x008000   0x80  interrupt.o [4]
                           - 0x008080   0x80
 
-"P3":                                 0x6f3
+"P3-P5":                              0x6eb
   .near_func.text  ro code  0x008080  0x3f0  FGAcoursestm8_LCD.o [1]
-  .near_func.text  ro code  0x008470   0xeb  FGAcoursestm8_LCD.o [1]
-  .near_func.text  ro code  0x00855b   0x7d  FGAcoursestm8_LCD.o [1]
-  .near_func.text  ro code  0x0085d8   0x6d  main.o [1]
-  .near_func.text  ro code  0x008645   0x39  FGAcoursestm8_LCD.o [1]
-  .near.rodata     const    0x00867e   0x34  FGAcoursestm8_LCD.o [1]
-  .near_func.text  ro code  0x0086b2   0x1a  main.o [1]
-  .near_func.text  ro code  0x0086cc   0x18  vreg_util.o [4]
-  .near_func.text  ro code  0x0086e4   0x17  init.o [4]
-  .near.rodata     const    0x0086fb   0x14  FGAcoursestm8_LCD.o [1]
-  .near_func.text  ro code  0x00870f   0x14  __dbg_xxexit.o [3]
-  .near_func.text  ro code  0x008723   0x13  cstartup.o [4]
-  .near_func.text  ro code  0x008736    0xd  InteruptConfig.o [1]
-  .near_func.text  ro code  0x008743    0x9  InteruptConfig.o [1]
-  .near_func.text  ro code  0x00874c    0x8  short.o [4]
-  .near_func.text  ro code  0x008754    0x7  main.o [1]
-  .near_func.text  ro code  0x00875b    0x6  char.o [4]
-  .near_func.text  ro code  0x008761    0x5  cexit.o [4]
-  .near_func.text  ro code  0x008766    0x3  interrupt.o [4]
-  .near_func.text  ro code  0x008769    0x3  low_level_init.o [4]
-  .near_func.text  ro code  0x00876c    0x3  exit.o [4]
-  .near_func.text  ro code  0x00876f    0x3  unhandled_exception.o [4]
-  .near_func.text  ro code  0x008772    0x1  __dbg_break.o [3]
-                          - 0x008773  0x6f3
+  .near_func.text  ro code  0x008470   0xe7  FGAcoursestm8_LCD.o [1]
+  .near_func.text  ro code  0x008557   0x7d  FGAcoursestm8_LCD.o [1]
+  .near_func.text  ro code  0x0085d4   0x6c  main.o [1]
+  .near_func.text  ro code  0x008640   0x39  FGAcoursestm8_LCD.o [1]
+  .near.rodata     const    0x008679   0x34  FGAcoursestm8_LCD.o [1]
+  .near_func.text  ro code  0x0086ad   0x1a  main.o [1]
+  .near_func.text  ro code  0x0086c7   0x18  vreg_util.o [4]
+  .near.rodata     const    0x0086df   0x14  FGAcoursestm8_LCD.o [1]
+  .near_func.text  ro code  0x0086f3   0x14  init.o [4]
+  .near_func.text  ro code  0x008707   0x14  __dbg_xxexit.o [3]
+  .near_func.text  ro code  0x00871b   0x13  cstartup.o [4]
+  .near_func.text  ro code  0x00872e    0xd  InteruptConfig.o [1]
+  .near_func.text  ro code  0x00873b    0x9  InteruptConfig.o [1]
+  .near_func.text  ro code  0x008744    0x8  short.o [4]
+  .near_func.text  ro code  0x00874c    0x7  main.o [1]
+  .near_func.text  ro code  0x008753    0x6  char.o [4]
+  .near_func.text  ro code  0x008759    0x5  cexit.o [4]
+  .near_func.text  ro code  0x00875e    0x3  interrupt.o [4]
+  .near_func.text  ro code  0x008761    0x3  low_level_init.o [4]
+  .near_func.text  ro code  0x008764    0x3  exit.o [4]
+  .near_func.text  ro code  0x008767    0x3  unhandled_exception.o [4]
+  .near_func.text  ro code  0x00876a    0x1  __dbg_break.o [3]
+                          - 0x00876b  0x6eb
 
 
 
@@ -98,12 +150,12 @@ __rt_version               = 4
 
     Module                 ro code  ro data  rw data
     ------                 -------  -------  -------
-D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj: [1]
-    FGAcoursestm8_LCD.o      1 425       72
+C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj: [1]
+    FGAcoursestm8_LCD.o      1 421       72
     InteruptConfig.o            22
-    main.o                     142
+    main.o                     141
     ------------------------------------------------
-    Total:                   1 589       72
+    Total:                   1 584       72
 
 command line: [2]
     ------------------------------------------------
@@ -120,7 +172,7 @@ dlstm8smn.a: [4]
     char.o                       6
     cstartup.o                  19
     exit.o                       3
-    init.o                      23
+    init.o                      20
     interrupt.o                  3      128
     low_level_init.o             3
     short.o                      8
@@ -128,11 +180,11 @@ dlstm8smn.a: [4]
     vreg_util.o                 24
     vregs.o                                       12
     ------------------------------------------------
-    Total:                      97      128       12
+    Total:                      94      128       12
 
     Linker created                               256
 ----------------------------------------------------
-    Grand Total:             1 707      200      268
+    Grand Total:             1 699      200      268
 
 
 *******************************************************************************
@@ -159,53 +211,53 @@ Entry                    Address   Size  Type      Object
 ?l0                     0x000000         Data  Gb  vregs.o [4]
 ?l1                     0x000004         Data  Gb  vregs.o [4]
 ?l2                     0x000008         Data  Gb  vregs.o [4]
-?push_w4                0x0086cc         Code  Gb  vreg_util.o [4]
-?sll8_a_a_5             0x00875c         Code  Gb  char.o [4]
-?sll8_a_a_6             0x00875b         Code  Gb  char.o [4]
-?srl16_x_x_a            0x00874c         Code  Gb  short.o [4]
+?push_w4                0x0086c7         Code  Gb  vreg_util.o [4]
+?sll8_a_a_5             0x008754         Code  Gb  char.o [4]
+?sll8_a_a_6             0x008753         Code  Gb  char.o [4]
+?srl16_x_x_a            0x008744         Code  Gb  short.o [4]
 ?w0                     0x000000         Data  Gb  vregs.o [4]
 ?w1                     0x000002         Data  Gb  vregs.o [4]
 ?w2                     0x000004         Data  Gb  vregs.o [4]
 ?w3                     0x000006         Data  Gb  vregs.o [4]
 ?w4                     0x000008         Data  Gb  vregs.o [4]
 ?w5                     0x00000a         Data  Gb  vregs.o [4]
-ButtonInterupt          0x008743    0x9  Code  Gb  InteruptConfig.o [1]
+ButtonInterupt          0x00873b    0x9  Code  Gb  InteruptConfig.o [1]
 CSTACK$$Base            0x000700          --   Gb  - Linker created -
 CSTACK$$Limit           0x000800          --   Gb  - Linker created -
-CapLetterMap            0x00867e   0x34  Data  Lc  FGAcoursestm8_LCD.o [1]
+CapLetterMap            0x008679   0x34  Data  Lc  FGAcoursestm8_LCD.o [1]
 INTVEC$$Base            0x008000          --   Gb  - Linker created -
 INTVEC$$Limit           0x008080          --   Gb  - Linker created -
-LCD_Conv_Char_Seg       0x008470   0xeb  Code  Gb  FGAcoursestm8_LCD.o [1]
-LCD_GLASS_Clear         0x008645   0x39  Code  Gb  FGAcoursestm8_LCD.o [1]
-LCD_GLASS_Init          0x00855b   0x7d  Code  Gb  FGAcoursestm8_LCD.o [1]
+LCD_Conv_Char_Seg       0x008470   0xe7  Code  Gb  FGAcoursestm8_LCD.o [1]
+LCD_GLASS_Clear         0x008640   0x39  Code  Gb  FGAcoursestm8_LCD.o [1]
+LCD_GLASS_Init          0x008557   0x7d  Code  Gb  FGAcoursestm8_LCD.o [1]
 LCD_GLASS_WriteChar     0x008080  0x3f0  Code  Gb  FGAcoursestm8_LCD.o [1]
-NumberMap               0x0086fb   0x14  Data  Lc  FGAcoursestm8_LCD.o [1]
+NumberMap               0x0086df   0x14  Data  Lc  FGAcoursestm8_LCD.o [1]
 Region$$Table$$Base   0x00000000          --   Gb  - Linker created -
 Region$$Table$$Limit  0x00000000          --   Gb  - Linker created -
-SPISlave                0x0086b2   0x1a  Code  Gb  main.o [1]
-Timer1Interupt          0x008736    0xd  Code  Gb  InteruptConfig.o [1]
-WriteSpi                0x008754    0x7  Code  Gb  main.o [1]
-__DebugBreak            0x008772    0x1  Code  Gb  __dbg_break.o [3]
-__exit                  0x00870f   0x14  Code  Gb  __dbg_xxexit.o [3]
-__iar_data_init2        0x0086e4   0x17  Code  Gb  init.o [4]
-__iar_program_start     0x008723         Code  Gb  cstartup.o [4]
+SPISlave                0x0086ad   0x1a  Code  Gb  main.o [1]
+Timer1Interupt          0x00872e    0xd  Code  Gb  InteruptConfig.o [1]
+WriteSpi                0x00874c    0x7  Code  Gb  main.o [1]
+__DebugBreak            0x00876a    0x1  Code  Gb  __dbg_break.o [3]
+__exit                  0x008707   0x14  Code  Gb  __dbg_xxexit.o [3]
+__iar_data_init2        0x0086f3   0x14  Code  Gb  init.o [4]
+__iar_program_start     0x00871b         Code  Gb  cstartup.o [4]
 __iar_unhandled_exception
-                        0x00876f         Code  Gb  unhandled_exception.o [4]
+                        0x008767         Code  Gb  unhandled_exception.o [4]
 __intvec                0x008000         Data  Gb  interrupt.o [4]
-__low_level_init        0x008769    0x3  Code  Gb  low_level_init.o [4]
-_exit                   0x008761         Code  Gb  cexit.o [4]
-_interrupt_11           0x008743         Code  Gb  InteruptConfig.o [1]
-_interrupt_25           0x008736         Code  Gb  InteruptConfig.o [1]
-exit                    0x00876c    0x3  Code  Gb  exit.o [4]
-main                    0x0085d8   0x6d  Code  Gb  main.o [1]
+__low_level_init        0x008761    0x3  Code  Gb  low_level_init.o [4]
+_exit                   0x008759         Code  Gb  cexit.o [4]
+_interrupt_11           0x00873b         Code  Gb  InteruptConfig.o [1]
+_interrupt_25           0x00872e         Code  Gb  InteruptConfig.o [1]
+exit                    0x008764    0x3  Code  Gb  exit.o [4]
+main                    0x0085d4   0x6c  Code  Gb  main.o [1]
 
 
-[1] = D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj
+[1] = C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj
 [2] = command line
 [3] = dbgstm8smd.a
 [4] = dlstm8smn.a
 
-  1 707 bytes of readonly  code memory
+  1 699 bytes of readonly  code memory
     200 bytes of readonly  data memory
     268 bytes of readwrite data memory
 
