@@ -7,7 +7,11 @@
     "location": {
       "column": "9",
       "line": "14",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "__FGAcoursestm8lLib_h__",
     "origin": "user_include",
@@ -21,7 +25,11 @@
     "location": {
       "column": "9",
       "line": "22",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "PortAb",
     "origin": "user_include",
@@ -35,7 +43,11 @@
     "location": {
       "column": "9",
       "line": "23",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "PortBb",
     "origin": "user_include",
@@ -49,7 +61,11 @@
     "location": {
       "column": "9",
       "line": "24",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "PortCb",
     "origin": "user_include",
@@ -63,7 +79,11 @@
     "location": {
       "column": "9",
       "line": "25",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "PortDb",
     "origin": "user_include",
@@ -77,7 +97,11 @@
     "location": {
       "column": "9",
       "line": "26",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "PortEb",
     "origin": "user_include",
@@ -91,7 +115,11 @@
     "location": {
       "column": "9",
       "line": "27",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "PortFb",
     "origin": "user_include",
@@ -105,7 +133,11 @@
     "location": {
       "column": "16",
       "line": "29",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -116,7 +148,11 @@
         "location": {
           "column": "17",
           "line": "31",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR0",
         "origin": "user_include",
@@ -130,7 +166,11 @@
         "location": {
           "column": "17",
           "line": "32",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR1",
         "origin": "user_include",
@@ -144,7 +184,11 @@
         "location": {
           "column": "17",
           "line": "33",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR2",
         "origin": "user_include",
@@ -158,7 +202,11 @@
         "location": {
           "column": "17",
           "line": "34",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR3",
         "origin": "user_include",
@@ -172,7 +220,11 @@
         "location": {
           "column": "17",
           "line": "35",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR4",
         "origin": "user_include",
@@ -186,7 +238,11 @@
         "location": {
           "column": "17",
           "line": "36",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR5",
         "origin": "user_include",
@@ -200,7 +256,11 @@
         "location": {
           "column": "17",
           "line": "37",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR6",
         "origin": "user_include",
@@ -214,7 +274,11 @@
         "location": {
           "column": "17",
           "line": "38",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR7",
         "origin": "user_include",
@@ -228,7 +292,11 @@
         "location": {
           "column": "2",
           "line": "39",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODRreg",
         "origin": "user_include",
@@ -247,7 +315,11 @@
     "location": {
       "column": "16",
       "line": "41",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -258,7 +330,11 @@
         "location": {
           "column": "17",
           "line": "43",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR0",
         "origin": "user_include",
@@ -272,7 +348,11 @@
         "location": {
           "column": "17",
           "line": "44",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR1",
         "origin": "user_include",
@@ -286,7 +366,11 @@
         "location": {
           "column": "17",
           "line": "45",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR2",
         "origin": "user_include",
@@ -300,7 +384,11 @@
         "location": {
           "column": "17",
           "line": "46",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR3",
         "origin": "user_include",
@@ -314,7 +402,11 @@
         "location": {
           "column": "17",
           "line": "47",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR4",
         "origin": "user_include",
@@ -328,7 +420,11 @@
         "location": {
           "column": "17",
           "line": "48",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR5",
         "origin": "user_include",
@@ -342,7 +438,11 @@
         "location": {
           "column": "17",
           "line": "49",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR6",
         "origin": "user_include",
@@ -356,7 +456,11 @@
         "location": {
           "column": "17",
           "line": "50",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR7",
         "origin": "user_include",
@@ -370,7 +474,11 @@
         "location": {
           "column": "2",
           "line": "51",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDRreg",
         "origin": "user_include",
@@ -389,7 +497,11 @@
     "location": {
       "column": "16",
       "line": "53",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -400,7 +512,11 @@
         "location": {
           "column": "17",
           "line": "55",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR0",
         "origin": "user_include",
@@ -414,7 +530,11 @@
         "location": {
           "column": "17",
           "line": "56",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR1",
         "origin": "user_include",
@@ -428,7 +548,11 @@
         "location": {
           "column": "17",
           "line": "57",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR2",
         "origin": "user_include",
@@ -442,7 +566,11 @@
         "location": {
           "column": "17",
           "line": "58",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR3",
         "origin": "user_include",
@@ -456,7 +584,11 @@
         "location": {
           "column": "17",
           "line": "59",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR4",
         "origin": "user_include",
@@ -470,7 +602,11 @@
         "location": {
           "column": "17",
           "line": "60",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR5",
         "origin": "user_include",
@@ -484,7 +620,11 @@
         "location": {
           "column": "17",
           "line": "61",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR6",
         "origin": "user_include",
@@ -498,7 +638,11 @@
         "location": {
           "column": "17",
           "line": "62",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR7",
         "origin": "user_include",
@@ -512,7 +656,11 @@
         "location": {
           "column": "2",
           "line": "63",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDRreg",
         "origin": "user_include",
@@ -531,7 +679,11 @@
     "location": {
       "column": "16",
       "line": "65",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -542,7 +694,11 @@
         "location": {
           "column": "17",
           "line": "67",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR10",
         "origin": "user_include",
@@ -556,7 +712,11 @@
         "location": {
           "column": "17",
           "line": "68",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR11",
         "origin": "user_include",
@@ -570,7 +730,11 @@
         "location": {
           "column": "17",
           "line": "69",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR12",
         "origin": "user_include",
@@ -584,7 +748,11 @@
         "location": {
           "column": "17",
           "line": "70",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR13",
         "origin": "user_include",
@@ -598,7 +766,11 @@
         "location": {
           "column": "17",
           "line": "71",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR14",
         "origin": "user_include",
@@ -612,7 +784,11 @@
         "location": {
           "column": "17",
           "line": "72",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR15",
         "origin": "user_include",
@@ -626,7 +802,11 @@
         "location": {
           "column": "17",
           "line": "73",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR16",
         "origin": "user_include",
@@ -640,7 +820,11 @@
         "location": {
           "column": "17",
           "line": "74",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR17",
         "origin": "user_include",
@@ -654,7 +838,11 @@
         "location": {
           "column": "2",
           "line": "75",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR1reg",
         "origin": "user_include",
@@ -673,7 +861,11 @@
     "location": {
       "column": "16",
       "line": "77",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -684,7 +876,11 @@
         "location": {
           "column": "17",
           "line": "79",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR20",
         "origin": "user_include",
@@ -698,7 +894,11 @@
         "location": {
           "column": "17",
           "line": "80",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR21",
         "origin": "user_include",
@@ -712,7 +912,11 @@
         "location": {
           "column": "17",
           "line": "81",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR22",
         "origin": "user_include",
@@ -726,7 +930,11 @@
         "location": {
           "column": "17",
           "line": "82",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR23",
         "origin": "user_include",
@@ -740,7 +948,11 @@
         "location": {
           "column": "17",
           "line": "83",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR24",
         "origin": "user_include",
@@ -754,7 +966,11 @@
         "location": {
           "column": "17",
           "line": "84",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR25",
         "origin": "user_include",
@@ -768,7 +984,11 @@
         "location": {
           "column": "17",
           "line": "85",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR26",
         "origin": "user_include",
@@ -782,7 +1002,11 @@
         "location": {
           "column": "17",
           "line": "86",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR27",
         "origin": "user_include",
@@ -796,7 +1020,11 @@
         "location": {
           "column": "2",
           "line": "87",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR2reg",
         "origin": "user_include",
@@ -815,7 +1043,11 @@
     "location": {
       "column": "16",
       "line": "90",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -826,7 +1058,11 @@
         "location": {
           "column": "16",
           "line": "92",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ODR",
         "origin": "user_include",
@@ -840,7 +1076,11 @@
         "location": {
           "column": "16",
           "line": "93",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IDR",
         "origin": "user_include",
@@ -854,7 +1094,11 @@
         "location": {
           "column": "16",
           "line": "94",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "DDR",
         "origin": "user_include",
@@ -868,7 +1112,11 @@
         "location": {
           "column": "16",
           "line": "95",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR1",
         "origin": "user_include",
@@ -882,7 +1130,11 @@
         "location": {
           "column": "16",
           "line": "96",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CR2",
         "origin": "user_include",
@@ -896,7 +1148,11 @@
         "location": {
           "column": "3",
           "line": "97",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "GPIObit",
         "origin": "user_include",
@@ -915,7 +1171,11 @@
     "location": {
       "column": "9",
       "line": "102",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "IRQ",
     "origin": "user_include",
@@ -929,7 +1189,11 @@
     "location": {
       "column": "16",
       "line": "104",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -940,7 +1204,11 @@
         "location": {
           "column": "17",
           "line": "106",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "EXTI_CR1",
         "origin": "user_include",
@@ -954,7 +1222,11 @@
         "location": {
           "column": "17",
           "line": "107",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "EXTI_CR2",
         "origin": "user_include",
@@ -968,7 +1240,11 @@
         "location": {
           "column": "17",
           "line": "108",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "EXTI_CR3",
         "origin": "user_include",
@@ -982,7 +1258,11 @@
         "location": {
           "column": "17",
           "line": "109",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "EXTI_SR1",
         "origin": "user_include",
@@ -996,7 +1276,11 @@
         "location": {
           "column": "17",
           "line": "110",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "EXTI_SR2",
         "origin": "user_include",
@@ -1010,7 +1294,11 @@
         "location": {
           "column": "17",
           "line": "111",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "EXTI_CONF1",
         "origin": "user_include",
@@ -1024,7 +1312,11 @@
         "location": {
           "column": "2",
           "line": "112",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "IRQreg",
         "origin": "user_include",
@@ -1043,7 +1335,11 @@
     "location": {
       "column": "16",
       "line": "118",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -1054,7 +1350,11 @@
         "location": {
           "column": "17",
           "line": "120",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_DIVR",
         "origin": "user_include",
@@ -1068,7 +1368,11 @@
         "location": {
           "column": "17",
           "line": "121",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_CRTCR",
         "origin": "user_include",
@@ -1082,7 +1386,11 @@
         "location": {
           "column": "17",
           "line": "122",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_ICKR",
         "origin": "user_include",
@@ -1096,7 +1404,11 @@
         "location": {
           "column": "17",
           "line": "123",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_PCKENR1",
         "origin": "user_include",
@@ -1110,7 +1422,11 @@
         "location": {
           "column": "17",
           "line": "124",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_PCKENR2",
         "origin": "user_include",
@@ -1124,7 +1440,11 @@
         "location": {
           "column": "17",
           "line": "125",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_CCOR",
         "origin": "user_include",
@@ -1138,7 +1458,11 @@
         "location": {
           "column": "17",
           "line": "126",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_ECKR",
         "origin": "user_include",
@@ -1152,7 +1476,11 @@
         "location": {
           "column": "17",
           "line": "127",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_SCSR",
         "origin": "user_include",
@@ -1166,7 +1494,11 @@
         "location": {
           "column": "17",
           "line": "128",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_SWR",
         "origin": "user_include",
@@ -1180,7 +1512,11 @@
         "location": {
           "column": "17",
           "line": "129",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_SWCR",
         "origin": "user_include",
@@ -1194,7 +1530,11 @@
         "location": {
           "column": "17",
           "line": "130",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_CSSR",
         "origin": "user_include",
@@ -1208,7 +1548,11 @@
         "location": {
           "column": "17",
           "line": "131",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_CBEEPR",
         "origin": "user_include",
@@ -1222,7 +1566,11 @@
         "location": {
           "column": "17",
           "line": "132",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_HSICALR",
         "origin": "user_include",
@@ -1236,7 +1584,11 @@
         "location": {
           "column": "17",
           "line": "133",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_HSITRIMR",
         "origin": "user_include",
@@ -1250,7 +1602,11 @@
         "location": {
           "column": "17",
           "line": "134",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_HSIUNLCKR",
         "origin": "user_include",
@@ -1264,7 +1620,11 @@
         "location": {
           "column": "17",
           "line": "135",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "CLK_REGCSR",
         "origin": "user_include",
@@ -1278,7 +1638,11 @@
         "location": {
           "column": "2",
           "line": "136",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "ClodkReg",
         "origin": "user_include",
@@ -1297,7 +1661,11 @@
     "location": {
       "column": "9",
       "line": "138",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "Clock",
     "origin": "user_include",
@@ -1311,7 +1679,11 @@
     "location": {
       "column": "9",
       "line": "155",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SetupClock",
     "origin": "user_include",
@@ -1325,7 +1697,11 @@
     "location": {
       "column": "9",
       "line": "166",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "TIM1",
     "origin": "user_include",
@@ -1339,7 +1715,11 @@
     "location": {
       "column": "9",
       "line": "167",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SetupTimer1",
     "origin": "user_include",
@@ -1353,7 +1733,11 @@
     "location": {
       "column": "16",
       "line": "176",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -1364,7 +1748,11 @@
         "location": {
           "column": "17",
           "line": "178",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CR1",
         "origin": "user_include",
@@ -1378,7 +1766,11 @@
         "location": {
           "column": "17",
           "line": "179",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CR2",
         "origin": "user_include",
@@ -1392,7 +1784,11 @@
         "location": {
           "column": "17",
           "line": "180",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_SMCR",
         "origin": "user_include",
@@ -1406,7 +1802,11 @@
         "location": {
           "column": "17",
           "line": "181",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_ETR",
         "origin": "user_include",
@@ -1420,7 +1820,11 @@
         "location": {
           "column": "17",
           "line": "182",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_DER",
         "origin": "user_include",
@@ -1434,7 +1838,11 @@
         "location": {
           "column": "17",
           "line": "183",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_IER",
         "origin": "user_include",
@@ -1448,7 +1856,11 @@
         "location": {
           "column": "17",
           "line": "184",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_SR1",
         "origin": "user_include",
@@ -1462,7 +1874,11 @@
         "location": {
           "column": "17",
           "line": "185",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_SR2",
         "origin": "user_include",
@@ -1476,7 +1892,11 @@
         "location": {
           "column": "17",
           "line": "187",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_EGR",
         "origin": "user_include",
@@ -1490,7 +1910,11 @@
         "location": {
           "column": "17",
           "line": "188",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCMR1",
         "origin": "user_include",
@@ -1504,7 +1928,11 @@
         "location": {
           "column": "17",
           "line": "189",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCMR2",
         "origin": "user_include",
@@ -1518,7 +1946,11 @@
         "location": {
           "column": "17",
           "line": "190",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCMR3",
         "origin": "user_include",
@@ -1532,7 +1964,11 @@
         "location": {
           "column": "17",
           "line": "191",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCMR4",
         "origin": "user_include",
@@ -1546,7 +1982,11 @@
         "location": {
           "column": "17",
           "line": "192",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCER1",
         "origin": "user_include",
@@ -1560,7 +2000,11 @@
         "location": {
           "column": "17",
           "line": "193",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCER2",
         "origin": "user_include",
@@ -1574,7 +2018,11 @@
         "location": {
           "column": "17",
           "line": "194",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CNTRH",
         "origin": "user_include",
@@ -1588,7 +2036,11 @@
         "location": {
           "column": "17",
           "line": "196",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CNTRL",
         "origin": "user_include",
@@ -1602,7 +2054,11 @@
         "location": {
           "column": "17",
           "line": "197",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_PSCRH",
         "origin": "user_include",
@@ -1616,7 +2072,11 @@
         "location": {
           "column": "17",
           "line": "198",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_PSCRL",
         "origin": "user_include",
@@ -1630,7 +2090,11 @@
         "location": {
           "column": "17",
           "line": "199",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_ARRH",
         "origin": "user_include",
@@ -1644,7 +2108,11 @@
         "location": {
           "column": "17",
           "line": "200",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_ARRL",
         "origin": "user_include",
@@ -1658,7 +2126,11 @@
         "location": {
           "column": "17",
           "line": "201",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_RCR",
         "origin": "user_include",
@@ -1672,7 +2144,11 @@
         "location": {
           "column": "17",
           "line": "202",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR1H",
         "origin": "user_include",
@@ -1686,7 +2162,11 @@
         "location": {
           "column": "17",
           "line": "203",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR1L",
         "origin": "user_include",
@@ -1700,7 +2180,11 @@
         "location": {
           "column": "17",
           "line": "205",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR2H",
         "origin": "user_include",
@@ -1714,7 +2198,11 @@
         "location": {
           "column": "17",
           "line": "206",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR2L",
         "origin": "user_include",
@@ -1728,7 +2216,11 @@
         "location": {
           "column": "17",
           "line": "207",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR3H",
         "origin": "user_include",
@@ -1742,7 +2234,11 @@
         "location": {
           "column": "17",
           "line": "208",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR3L",
         "origin": "user_include",
@@ -1756,7 +2252,11 @@
         "location": {
           "column": "17",
           "line": "209",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR4H",
         "origin": "user_include",
@@ -1770,7 +2270,11 @@
         "location": {
           "column": "17",
           "line": "210",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_CCR4L",
         "origin": "user_include",
@@ -1784,7 +2288,11 @@
         "location": {
           "column": "17",
           "line": "211",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_BKR",
         "origin": "user_include",
@@ -1798,7 +2306,11 @@
         "location": {
           "column": "17",
           "line": "212",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_DTR",
         "origin": "user_include",
@@ -1812,7 +2324,11 @@
         "location": {
           "column": "17",
           "line": "214",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_OISR",
         "origin": "user_include",
@@ -1826,7 +2342,11 @@
         "location": {
           "column": "17",
           "line": "215",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_DCR1",
         "origin": "user_include",
@@ -1840,7 +2360,11 @@
         "location": {
           "column": "17",
           "line": "216",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_DCR2",
         "origin": "user_include",
@@ -1854,7 +2378,11 @@
         "location": {
           "column": "17",
           "line": "217",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1_DMA1R",
         "origin": "user_include",
@@ -1868,7 +2396,11 @@
         "location": {
           "column": "2",
           "line": "218",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "TIM1Reg",
         "origin": "user_include",
@@ -1887,7 +2419,11 @@
     "location": {
       "column": "9",
       "line": "224",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD",
     "origin": "user_include",
@@ -1901,7 +2437,11 @@
     "location": {
       "column": "16",
       "line": "226",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -1912,7 +2452,11 @@
         "location": {
           "column": "17",
           "line": "228",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_CR1",
         "origin": "user_include",
@@ -1926,7 +2470,11 @@
         "location": {
           "column": "17",
           "line": "229",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_CR2",
         "origin": "user_include",
@@ -1940,7 +2488,11 @@
         "location": {
           "column": "17",
           "line": "230",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_CR3",
         "origin": "user_include",
@@ -1954,7 +2506,11 @@
         "location": {
           "column": "17",
           "line": "231",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_FRQ",
         "origin": "user_include",
@@ -1968,7 +2524,11 @@
         "location": {
           "column": "17",
           "line": "232",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_PM0",
         "origin": "user_include",
@@ -1982,7 +2542,11 @@
         "location": {
           "column": "17",
           "line": "233",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_PM1",
         "origin": "user_include",
@@ -1996,7 +2560,11 @@
         "location": {
           "column": "17",
           "line": "234",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_PM2",
         "origin": "user_include",
@@ -2010,7 +2578,11 @@
         "location": {
           "column": "17",
           "line": "235",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_PM3",
         "origin": "user_include",
@@ -2024,7 +2596,11 @@
         "location": {
           "column": "17",
           "line": "236",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "freespace",
         "origin": "user_include",
@@ -2038,7 +2614,11 @@
         "location": {
           "column": "17",
           "line": "237",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM0",
         "origin": "user_include",
@@ -2052,7 +2632,11 @@
         "location": {
           "column": "17",
           "line": "238",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM1",
         "origin": "user_include",
@@ -2066,7 +2650,11 @@
         "location": {
           "column": "17",
           "line": "239",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM2",
         "origin": "user_include",
@@ -2080,7 +2668,11 @@
         "location": {
           "column": "17",
           "line": "240",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM3",
         "origin": "user_include",
@@ -2094,7 +2686,11 @@
         "location": {
           "column": "17",
           "line": "241",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM4",
         "origin": "user_include",
@@ -2108,7 +2704,11 @@
         "location": {
           "column": "17",
           "line": "242",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM5",
         "origin": "user_include",
@@ -2122,7 +2722,11 @@
         "location": {
           "column": "17",
           "line": "243",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM6",
         "origin": "user_include",
@@ -2136,7 +2740,11 @@
         "location": {
           "column": "17",
           "line": "244",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM7",
         "origin": "user_include",
@@ -2150,7 +2758,11 @@
         "location": {
           "column": "17",
           "line": "245",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM8",
         "origin": "user_include",
@@ -2164,7 +2776,11 @@
         "location": {
           "column": "17",
           "line": "246",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM9",
         "origin": "user_include",
@@ -2178,7 +2794,11 @@
         "location": {
           "column": "17",
           "line": "247",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM10",
         "origin": "user_include",
@@ -2192,7 +2812,11 @@
         "location": {
           "column": "17",
           "line": "248",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM11",
         "origin": "user_include",
@@ -2206,7 +2830,11 @@
         "location": {
           "column": "17",
           "line": "249",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM12",
         "origin": "user_include",
@@ -2220,7 +2848,11 @@
         "location": {
           "column": "17",
           "line": "250",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCD_RAM13",
         "origin": "user_include",
@@ -2234,7 +2866,11 @@
         "location": {
           "column": "2",
           "line": "251",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "LCDreg",
         "origin": "user_include",
@@ -2253,7 +2889,11 @@
     "location": {
       "column": "9",
       "line": "255",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SPI",
     "origin": "user_include",
@@ -2267,7 +2907,11 @@
     "location": {
       "column": "16",
       "line": "257",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "members": [
       {
@@ -2278,7 +2922,11 @@
         "location": {
           "column": "17",
           "line": "259",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_CR1",
         "origin": "user_include",
@@ -2292,7 +2940,11 @@
         "location": {
           "column": "17",
           "line": "260",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_CR2",
         "origin": "user_include",
@@ -2306,7 +2958,11 @@
         "location": {
           "column": "17",
           "line": "261",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_ICR",
         "origin": "user_include",
@@ -2320,7 +2976,11 @@
         "location": {
           "column": "17",
           "line": "262",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_SR",
         "origin": "user_include",
@@ -2334,7 +2994,11 @@
         "location": {
           "column": "17",
           "line": "263",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_DR",
         "origin": "user_include",
@@ -2348,7 +3012,11 @@
         "location": {
           "column": "17",
           "line": "264",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_CRCPR",
         "origin": "user_include",
@@ -2362,7 +3030,11 @@
         "location": {
           "column": "17",
           "line": "265",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_RXCRCR",
         "origin": "user_include",
@@ -2376,7 +3048,11 @@
         "location": {
           "column": "17",
           "line": "266",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPI1_TXCRCR",
         "origin": "user_include",
@@ -2390,7 +3066,11 @@
         "location": {
           "column": "2",
           "line": "267",
+<<<<<<< HEAD
           "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+          "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
         },
         "name": "SPIreg",
         "origin": "user_include",
@@ -2409,7 +3089,11 @@
     "location": {
       "column": "9",
       "line": "276",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "GreenOn",
     "origin": "user_include",
@@ -2423,7 +3107,11 @@
     "location": {
       "column": "9",
       "line": "277",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "GreenOff",
     "origin": "user_include",
@@ -2437,7 +3125,11 @@
     "location": {
       "column": "9",
       "line": "280",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BlueOn",
     "origin": "user_include",
@@ -2451,7 +3143,11 @@
     "location": {
       "column": "9",
       "line": "281",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BlueOff",
     "origin": "user_include",
@@ -2465,7 +3161,11 @@
     "location": {
       "column": "9",
       "line": "285",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SetupLed",
     "origin": "user_include",
@@ -2479,7 +3179,11 @@
     "location": {
       "column": "9",
       "line": "293",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SetupUserButton",
     "origin": "user_include",
@@ -2493,7 +3197,11 @@
     "location": {
       "column": "6",
       "line": "309",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8Lib.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "delay",
     "origin": "user_include",
@@ -2507,7 +3215,11 @@
     "location": {
       "column": "6",
       "line": "3",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_Init",
     "origin": "project_file",
@@ -2521,7 +3233,11 @@
     "location": {
       "column": "6",
       "line": "70",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_Clear",
     "origin": "project_file",
@@ -2535,7 +3251,11 @@
     "location": {
       "column": "6",
       "line": "88",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "display_lcd",
     "origin": "project_file",
@@ -2549,7 +3269,11 @@
     "location": {
       "column": "6",
       "line": "101",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_bar",
     "origin": "project_file",
@@ -2563,7 +3287,11 @@
     "location": {
       "column": "6",
       "line": "117",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_WriteChar",
     "origin": "project_file",
@@ -2577,7 +3305,11 @@
     "location": {
       "column": "11",
       "line": "119",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "digit",
     "origin": "project_file",
@@ -2591,7 +3323,11 @@
     "location": {
       "column": "6",
       "line": "304",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_Conv_Char_Seg",
     "origin": "project_file",
@@ -2605,7 +3341,11 @@
     "location": {
       "column": "12",
       "line": "306",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "ch",
     "origin": "project_file",
@@ -2619,7 +3359,11 @@
     "location": {
       "column": "11",
       "line": "307",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "i",
     "origin": "project_file",
@@ -2633,7 +3377,11 @@
     "location": {
       "column": "13",
       "line": "307",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "j",
     "origin": "project_file",
@@ -6223,7 +6971,11 @@
     "location": {
       "column": "9",
       "line": "16",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "__FGAcoursestm8_LCD_h__",
     "origin": "user_include",
@@ -6237,7 +6989,11 @@
     "location": {
       "column": "9",
       "line": "22",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR0_ON",
     "origin": "user_include",
@@ -6251,7 +7007,11 @@
     "location": {
       "column": "9",
       "line": "23",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR0_OFF",
     "origin": "user_include",
@@ -6265,7 +7025,11 @@
     "location": {
       "column": "9",
       "line": "24",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR1_ON",
     "origin": "user_include",
@@ -6279,7 +7043,11 @@
     "location": {
       "column": "9",
       "line": "25",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR1_OFF",
     "origin": "user_include",
@@ -6293,7 +7061,11 @@
     "location": {
       "column": "9",
       "line": "26",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR2_ON",
     "origin": "user_include",
@@ -6307,7 +7079,11 @@
     "location": {
       "column": "9",
       "line": "27",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR2_OFF",
     "origin": "user_include",
@@ -6321,7 +7097,11 @@
     "location": {
       "column": "9",
       "line": "28",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR3_ON",
     "origin": "user_include",
@@ -6335,7 +7115,11 @@
     "location": {
       "column": "9",
       "line": "29",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "BAR3_OFF",
     "origin": "user_include",
@@ -6349,7 +7133,11 @@
     "location": {
       "column": "10",
       "line": "31",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "POINT_OFF",
     "origin": "user_include",
@@ -6363,7 +7151,11 @@
     "location": {
       "column": "10",
       "line": "32",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "POINT_ON",
     "origin": "user_include",
@@ -6377,7 +7169,11 @@
     "location": {
       "column": "10",
       "line": "35",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "COLUMN_OFF",
     "origin": "user_include",
@@ -6391,7 +7187,11 @@
     "location": {
       "column": "10",
       "line": "36",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "COLUMN_ON",
     "origin": "user_include",
@@ -6405,7 +7205,11 @@
     "location": {
       "column": "9",
       "line": "39",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "C_UMAP",
     "origin": "user_include",
@@ -6419,7 +7223,11 @@
     "location": {
       "column": "9",
       "line": "42",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "C_mMap",
     "origin": "user_include",
@@ -6433,7 +7241,11 @@
     "location": {
       "column": "9",
       "line": "45",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "C_nMap",
     "origin": "user_include",
@@ -6447,7 +7259,11 @@
     "location": {
       "column": "9",
       "line": "48",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "star",
     "origin": "user_include",
@@ -6461,7 +7277,11 @@
     "location": {
       "column": "9",
       "line": "51",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "C_minus",
     "origin": "user_include",
@@ -6475,7 +7295,11 @@
     "location": {
       "column": "16",
       "line": "54",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "t_bar",
     "origin": "user_include",
@@ -6489,7 +7313,11 @@
     "location": {
       "column": "23",
       "line": "56",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "CapLetterMap",
     "origin": "user_include",
@@ -6503,7 +7331,11 @@
     "location": {
       "column": "23",
       "line": "67",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "NumberMap",
     "origin": "user_include",
@@ -6517,7 +7349,11 @@
     "location": {
       "column": "6",
       "line": "74",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_Init",
     "origin": "user_include",
@@ -6531,7 +7367,11 @@
     "location": {
       "column": "6",
       "line": "74",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_Init",
     "origin": "user_include",
@@ -6545,7 +7385,11 @@
     "location": {
       "column": "6",
       "line": "75",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_Clear",
     "origin": "user_include",
@@ -6559,7 +7403,11 @@
     "location": {
       "column": "6",
       "line": "75",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_Clear",
     "origin": "user_include",
@@ -6573,7 +7421,11 @@
     "location": {
       "column": "6",
       "line": "76",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "display_lcd",
     "origin": "user_include",
@@ -6587,7 +7439,11 @@
     "location": {
       "column": "6",
       "line": "76",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "display_lcd",
     "origin": "user_include",
@@ -6601,7 +7457,11 @@
     "location": {
       "column": "6",
       "line": "78",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_WriteChar",
     "origin": "user_include",
@@ -6615,7 +7475,11 @@
     "location": {
       "column": "6",
       "line": "78",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_GLASS_WriteChar",
     "origin": "user_include",
@@ -6629,7 +7493,11 @@
     "location": {
       "column": "6",
       "line": "79",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_Conv_Char_Seg",
     "origin": "user_include",
@@ -6643,7 +7511,11 @@
     "location": {
       "column": "6",
       "line": "79",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_Conv_Char_Seg",
     "origin": "user_include",
@@ -6657,7 +7529,11 @@
     "location": {
       "column": "6",
       "line": "80",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_bar",
     "origin": "user_include",
@@ -6671,7 +7547,11 @@
     "location": {
       "column": "6",
       "line": "80",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\inc\\FGAcoursestm8_LCD.h"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "LCD_bar",
     "origin": "user_include",
@@ -7609,7 +8489,11 @@
     "location": {
       "column": "6",
       "line": "2",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\user\\src\\FGAcoursestm8Lib.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\user\\src\\FGAcoursestm8Lib.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "delay",
     "origin": "project_file",
@@ -7623,7 +8507,11 @@
     "location": {
       "column": "1",
       "line": "5",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\InteruptConfig.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\InteruptConfig.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "ButtonInterupt",
     "origin": "project_file",
@@ -7637,7 +8525,11 @@
     "location": {
       "column": "1",
       "line": "12",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\InteruptConfig.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\InteruptConfig.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "Timer1Interupt",
     "origin": "project_file",
@@ -7651,7 +8543,11 @@
     "location": {
       "column": "9",
       "line": "4",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "WriteSpi",
     "origin": "project_file",
@@ -7665,7 +8561,11 @@
     "location": {
       "column": "6",
       "line": "5",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SPIMaster",
     "origin": "project_file",
@@ -7679,7 +8579,11 @@
     "location": {
       "column": "6",
       "line": "6",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SPISlave",
     "origin": "project_file",
@@ -7693,7 +8597,11 @@
     "location": {
       "column": "6",
       "line": "10",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "main",
     "origin": "project_file",
@@ -7707,7 +8615,11 @@
     "location": {
       "column": "11",
       "line": "23",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "a",
     "origin": "project_file",
@@ -7721,7 +8633,11 @@
     "location": {
       "column": "9",
       "line": "60",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "WriteSpi",
     "origin": "project_file",
@@ -7735,7 +8651,11 @@
     "location": {
       "column": "6",
       "line": "68",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SPIMaster",
     "origin": "project_file",
@@ -7749,7 +8669,11 @@
     "location": {
       "column": "6",
       "line": "85",
+<<<<<<< HEAD
       "path": "D:\\WorkingZone\\FGA-Traing\\Buoi4\\main.c"
+=======
+      "path": "C:\\Users\\hera.fgatraining\\Desktop\\Workplace\\-FGA-UIT-LAB-CourseJun2019\\Buoi4\\main.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     },
     "name": "SPISlave",
     "origin": "project_file",

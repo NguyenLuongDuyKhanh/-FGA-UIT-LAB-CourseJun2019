@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 "D:\WorkingZone\FGA-Traing\Buoi4\user\src\FGAcoursestm8_LCD.c"
+=======
+"C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\user\src\FGAcoursestm8_LCD.c"
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
 -std=c99
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
+<<<<<<< HEAD
 D:\WorkingZone\FGA-Traing\Buoi4\Debug\Obj\FGAcoursestm8_LCD.pbi.dep
 -o
 FGAcoursestm8_LCD.pbi
@@ -12,11 +17,28 @@ D:\WorkingZone\FGA-Traing\Buoi4\user\src
 -I
 D:\WorkingZone\FGA-Traing\Buoi4\user\inc
 -I
+=======
+C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\Debug\Obj\FGAcoursestm8_LCD.pbi.dep
+-o
+FGAcoursestm8_LCD.pbi
+-I
+C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\user\src
+-I
+D:\WorkingZone\FGA-Traing\Buoi4\user\inc
+-I
+C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\user\inc
+-I
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc\c
 -I
 D:\WorkingZone\FGA-Traing\Buoi4\user\inc
+<<<<<<< HEAD
+=======
+-I
+C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\user\inc
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

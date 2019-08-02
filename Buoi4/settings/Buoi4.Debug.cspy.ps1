@@ -23,9 +23,17 @@
 
 if ($debugfile -eq "")
 {
+<<<<<<< HEAD
 & "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\WorkingZone\FGA-Traing\Buoi4\settings\Buoi4.Debug.general.xcl" --backend -f "D:\WorkingZone\FGA-Traing\Buoi4\settings\Buoi4.Debug.driver.xcl" 
 }
 else
 {
 & "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\WorkingZone\FGA-Traing\Buoi4\settings\Buoi4.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\WorkingZone\FGA-Traing\Buoi4\settings\Buoi4.Debug.driver.xcl" 
+=======
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\settings\Buoi4.Debug.general.xcl" --backend -f "C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\settings\Buoi4.Debug.driver.xcl" 
+}
+else
+{
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\settings\Buoi4.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\settings\Buoi4.Debug.driver.xcl" 
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
 }

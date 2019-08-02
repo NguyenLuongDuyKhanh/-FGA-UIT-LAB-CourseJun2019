@@ -1,10 +1,14 @@
 "-p" 
 
+<<<<<<< HEAD
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\config\ddf\iostm8l152c6.ddf" 
+=======
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\config\ddf\iostm8l151k4.ddf" 
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
 
 "--mcuname" 
 
-"STM8L152C6" 
+"STM8L151K4" 
 
 
 

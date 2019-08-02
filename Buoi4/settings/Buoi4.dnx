@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <settings>
     <DebugChecksum>
+<<<<<<< HEAD
         <Checksum>-1266681630</Checksum>
+=======
+        <Checksum>970166463</Checksum>
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     </DebugChecksum>
     <CodeCoverage>
         <Enabled>_ 0</Enabled>
@@ -72,20 +76,39 @@
     <Simulator>
         <Freq>16000000</Freq>
     </Simulator>
+<<<<<<< HEAD
     <DataSample>
         <LogEnabled>0</LogEnabled>
         <GraphEnabled>0</GraphEnabled>
         <ShowTimeLog>1</ShowTimeLog>
     </DataSample>
+=======
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     <Log_file>
         <LoggingEnabled>_ 0</LoggingEnabled>
         <LogFile>_ ""</LogFile>
         <Category>_ 0</Category>
     </Log_file>
+<<<<<<< HEAD
+=======
+    <DataSample>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+    </DataSample>
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     <TermIOLog>
         <LoggingEnabled>_ 0</LoggingEnabled>
         <LogFile>_ ""</LogFile>
     </TermIOLog>
+<<<<<<< HEAD
+=======
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
     <Breakpoints>
         <Bp0>_ "STD_CODE" "{$PROJ_DIR$\user\inc\FGAcoursestm8Lib.h}.165.1" 0 0 0 0 "" 0 ""</Bp0>
         <Count>1</Count>

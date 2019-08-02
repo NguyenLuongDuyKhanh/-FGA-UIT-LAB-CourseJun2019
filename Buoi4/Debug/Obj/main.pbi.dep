@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main.pbi: D:\WorkingZone\FGA-Traing\Buoi4\main.c \
   D:\WorkingZone\FGA-Traing\Buoi4\user\inc\FGAcoursestm8Lib.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdint.h \
@@ -11,3 +12,7 @@ main.pbi: D:\WorkingZone\FGA-Traing\Buoi4\main.c \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
   D:\WorkingZone\FGA-Traing\Buoi4\user\inc\FGAcoursestm8_LCD.h \
   D:\WorkingZone\FGA-Traing\Buoi4\user\inc/FGAcoursestm8Lib.h
+=======
+main.pbi: \
+  C:\Users\hera.fgatraining\Desktop\Workplace\-FGA-UIT-LAB-CourseJun2019\Buoi4\main.c
+>>>>>>> 42afe42df8edb57aed30db73248dfc0da776272a
